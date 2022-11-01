@@ -30,7 +30,7 @@ st.write("Play with Streamlit live in the browser!")
 
 table_data = {'Column 1': [1, 2], 'Column 2': [3, 4]}
 st.write(pd.DataFrame(data=table_data))
-st.caption("Developed by ~Shahnab~")
+st.caption("Developed by Shahnab")
 """
 
 with editor:
